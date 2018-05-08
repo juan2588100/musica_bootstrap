@@ -1,0 +1,128 @@
+body
+{
+  background-color:	#FFF5EE;
+    
+}
+header
+{
+  background-color:#FF8C00;
+}
+div.container
+{
+  background-color:#483D8B;
+     font-family: 'Changa One', cursive;
+}
+.mynavbar
+{
+  background-color: 	#483D8B;
+  min-height: 15%; 
+    
+}
+.mynavbar li
+{
+  text-align: center;
+  font-family: 'Freckle Face', cursive;
+    font-size: 2rem;
+}
+#logo
+{
+  width: 25%;
+}
+.redes-sociales
+{
+  padding-top: 7%;
+  padding-bottom: 3%;
+}
+.redes-sociales a:hover
+{
+  opacity: 0.5;
+}
+.img-social
+{
+  height: 50px;
+  width: 50px;
+}
+div.main
+{
+  color: white;
+    
+    
+}
+.mynavbar .nav li a:hover
+{
+  color: white;
+  background-color: #FF8C00;
+    
+    
+}
+.mynavbar .nav li a
+{
+  color: #ADD8E6;
+    
+}
+.leftCol li:hover
+{
+  background-color: orange;
+    
+}
+.row .images
+{
+  width: 100%;
+  margin-top: 6%;
+  margin-bottom: 3%;
+}
+.imgCom
+{
+  width: 80px;
+  height: 80px;
+}
+#comment
+{
+  width: 100%;
+  height: 80px;
+  display: inline;
+}
+.leftCol
+{
+  padding: 5px;
+  color: black;
+}
+.leftCol li
+{
+  background-color: #F8F8FF;
+}
+.leftCol div
+{
+  margin-bottom: 5px;
+}
+article
+{
+  padding: 10px;
+}
+article .row
+{
+  padding: 5px 5px 5px 10px;
+}
+
+p{
+    
+    
+  font-family: 'Reem Kufi', sans-serif;  
+    font-size: 1.5rem;
+}
+h2{
+    padding: 0;
+    font-family: 'Changa One', cursive;
+margin-top: 0
+}
+@media (min-width: 768px) 
+{
+  .topMenu
+  {
+    width: 100%;
+  }
+  .topMenu li
+  {
+    width: 16%;
+  }
+}
